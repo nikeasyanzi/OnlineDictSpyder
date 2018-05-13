@@ -8,12 +8,12 @@ https://stackoverflow.com/questions/3033952/threading-pool-similar-to-the-multip
 
 
 ## Module needs to be installed 
-	request, lxml, html2text and scrapy
+	1.Require modules:request, lxml, html2text and scrapy
 	
-	Please install twisted (manaually) before install scrapy
-	How to intall twisted: get *.whl and command with "pip install yourfilename.whl"
+	2.Please install twisted (manaually) before install scrapy
+	3.How to intall twisted: get *.whl and command with "pip install yourfilename.whl"
 	
-	Unofficial Windows Binaries for Python Extension Packages 
+	4.Unofficial Windows Binaries for Python Extension Packages 
 	from here http://www.lfd.uci.edu/~gohlke/pythonlibs/#twisted
 
 ## xpath
