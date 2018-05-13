@@ -2,7 +2,8 @@
 
 ## A online dictionary parser
 It looks up vocabulary on Yahoo dictionary and Cambridge dictionary and parse the explaination.
-It uses thread pool to manage threads
+
+It uses thread pool to manage threads.
 https://stackoverflow.com/questions/3033952/threading-pool-similar-to-the-multiprocessing-pool?utm_medium=organic&utm_source=google_rich_qa&utm_campaign=google_rich_qa
 
 
@@ -17,5 +18,6 @@ https://stackoverflow.com/questions/3033952/threading-pool-similar-to-the-multip
 	from here http://www.lfd.uci.edu/~gohlke/pythonlibs/#twisted
 
 ## xpath
-	The xpath may change depends on the web design. While parse the webpage, please make sure the xpath expression is correct. (use xpath tester)
 
+The xpath may change depends on the web design. 
+While parse the webpage, please make sure the xpath expression is correct. (use xpath tester)
